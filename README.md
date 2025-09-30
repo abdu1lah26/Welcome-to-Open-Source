@@ -1,9 +1,9 @@
 # Welcome to Open Source Contributions 🍉
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg" width="400"/>
-    </a>
+    <img src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif" width="200" />
+
+
 </p>  
 
 This repository is all about **learning, contributing, and celebrating open source** 🚀.
@@ -53,6 +53,17 @@ To get your Pull Request (PR) accepted, make sure you follow these steps:
 * 🎯 Boosts your portfolio with a real contribution.
 
 ---
+
+## 🎥 Demo
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg" width="400"/>
+    </a>
+</p>  
+
+---
+
 ## 🌐 Stay Connected
 
 <p align="center">
@@ -100,3 +111,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
+
+👉 This new version makes onboarding **step-by-step**, shows **how to contribute with code snippets**, and clarifies **use cases** for beginners.
+
+Do you want me to also make a **shorter, minimalist version** (like a 1-page quick-read) or keep it detailed like this?
